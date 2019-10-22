@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-
+<b> ChatBot </b>
+<iframe height="400px" width="100%" src="https://repl.it/@JonMarkHicks/SubtleFavorableRatios?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 A data-driven personal website
 ======
